@@ -1,0 +1,114 @@
+# Compilación y Salidas (CMake y Qt)
+/[Bb]uild/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/CMakeScripts/
+/Makefile
+*.cmake
+/qmake/
+
+# Archivos de configuración de usuario (Qt Creator y Visual Studio)
+*.user
+*.user.*
+*.suo
+*.tasks
+
+# Archivos específicos de Qt Creator e IDEs
+.qtc_clangd/
+.qt/
+.idea/
+.vs/
+.vscode/
+
+# Código C++ generado automáticamente por Qt (MOC, UIC, RCC)
+**/moc_*.cpp
+**/ui_*.h
+**/qrc_*.cpp
+# Compilación y Salidas (CMake y Qt)
+/[Bb]uild/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/CMakeScripts/
+/Makefile
+*.cmake
+/qmake/
+
+# Archivos de configuración de usuario (Qt Creator y Visual Studio)
+*.user
+*.user.*
+*.suo
+*.tasks
+
+# Archivos específicos de Qt Creator e IDEs
+.qtc_clangd/
+# Compilación y Salidas (CMake y Qt)
+/[Bb]uild/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/CMakeScripts/
+/Makefile
+*.cmake
+/qmake/
+
+# Archivos de configuración de usuario (Qt Creator y Visual Studio)
+*.user
+*.user.*
+*.suo
+*.tasks
+
+# Archivos específicos de Qt Creator e IDEs
+.qtc_clangd/
+.qt/
+.idea/
+.vs/
+.vscode/
+
+# Código C++ generado automáticamente por Qt (MOC, UIC, RCC)
+**/moc_*.cpp
+**/ui_*.h
+**/qrc_*.cpp
+# Compilación y Salidas (CMake y Qt)
+*.user
+*.user.*
+*.suo
+*.tasks
+
+# Archivos específicos de Qt Creator e IDEs
+.qtc_clangd/
+.qt/
+.idea/
+.vs/
+.vscode/
+
+# Código C++ generado automáticamente por Qt (MOC, UIC, RCC)
+**/moc_*.cpp
+**/ui_*.h
+**/qrc_*.cpp
+**/qmake_image_collection.cpp
+
+# Archivos de objetos y librerías compiladas
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.pdb
+*.ilk
+*.a
+
+# Ejecutables y archivos de depuración
+*.lib
+*.so
+*.dylib/[Bb]uild/
+/cmake-build-*/
+# Archivos de configuración de usuario (Qt Creator y Visual Studio)
+/CMakeFiles/
+/CMakeCache.txt
+
+/CMakeScripts/
+*.cmake
+/qmake/
+
